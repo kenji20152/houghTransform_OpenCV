@@ -1,4 +1,4 @@
-package test;
+package houghTransform_OpenCV;
 
 import org.opencv.core.Core;
 import org.opencv.core.CvType;
